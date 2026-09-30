@@ -38,16 +38,23 @@ Tanpa login, tanpa server, gratis. Data tersimpan di browser pengguna.
 
 ## Cara menjalankan
 
-Butuh [Node.js](https://nodejs.org) versi 20 ke atas.
+**Cara tercepat:** buka link demo di atas, tidak perlu install apa pun.
+
+**Menjalankan di komputer sendiri** (butuh [Node.js](https://nodejs.org) versi 20 ke atas
+dan [Git](https://git-scm.com)):
 
 ```bash
-git clone <url-repo-ini>
+git clone https://github.com/sb-rajaiblis/skripsitrack.git
 cd skripsitrack
 npm install
 npm run dev
 ```
 
-Buka `http://localhost:5173`.
+Lalu buka `http://localhost:5173` di browser.
+
+> **Pengguna Windows:** jika muncul error *"running scripts is disabled on this system"*
+> saat menjalankan `npm`, jalankan sekali di PowerShell:
+> `Set-ExecutionPolicy -Scope CurrentUser RemoteSigned`, lalu coba lagi.
 
 Perintah lain:
 
