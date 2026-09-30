@@ -6,7 +6,7 @@ mengundang dosen pembimbing.
 
 > Dibuat untuk **Vibe Coding Challenge NusaLab 2026**.
 
-**Demo:** _(isi link Vercel di sini)_
+**Demo:** https://skripsitrack.vercel.app
 
 ## Masalah yang diselesaikan
 
